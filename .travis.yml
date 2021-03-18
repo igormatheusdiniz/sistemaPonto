@@ -1,2 +1,3 @@
-langague: java
-dist: trusty
+language: java
+jdk:
+  - openjdk8
